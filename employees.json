@@ -1,0 +1,42 @@
+[
+    {
+        "name": "John",
+        "age": 35,
+        "gender": "Male",
+        "emp_id": "E101",
+        "department": "HR",
+        "salary": 45000.0
+    },
+    {
+        "name": "Jane",
+        "age": 28,
+        "gender": "Female",
+        "emp_id": "E102",
+        "department": "IT",
+        "salary": 55000.0
+    },
+    {
+        "name": "Bob",
+        "age": 40,
+        "gender": "Male",
+        "emp_id": "E103",
+        "department": "HR",
+        "salary": 60000.0
+    },
+    {
+        "name": "Alice",
+        "age": 30,
+        "gender": "Female",
+        "emp_id": "E104",
+        "department": "Finance",
+        "salary": 48000.0
+    },
+    {
+        "name": "Charlie",
+        "age": 45,
+        "gender": "Male",
+        "emp_id": "E105",
+        "department": "IT",
+        "salary": 47000.0
+    }
+]
